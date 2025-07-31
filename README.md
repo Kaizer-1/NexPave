@@ -49,6 +49,17 @@ NexPave offers a decentralized, ML-driven system where users can report potholes
 
 ---
 
+## 👨‍💻 My Contributions
+
+I contributed to the development of **NexPave – Crowdsourced Pothole Detection & Repair Platform**, focusing on:
+
+- **YOLOv8 Model Integration** – Implemented the machine learning pipeline for pothole detection and severity classification.  
+- **Repair Verification System** – Developed the before-after image comparison logic to automate repair validation.  
+- **FastAPI Service** – Created a Python-based microservice to expose ML models via REST APIs.  
+- **Full-Stack Integration** – Connected the FastAPI service with the Spring Boot backend and React frontend.  
+
+---
+
 ## 🧱 System Architecture
 
 | Component        | Tech Stack         |
